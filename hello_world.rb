@@ -1,1 +1,1 @@
-puts "hello World"as j;as
+puts "hello World"
